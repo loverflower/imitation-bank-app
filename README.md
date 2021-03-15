@@ -1,0 +1,1 @@
+This app immitate working with bank accounts. To test it you should use login: JS pass: 1111, other user log: JD, pass: 2222
